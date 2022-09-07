@@ -5,7 +5,7 @@ import Fellepeseink from './Pages/Fellepeseink';
 import Regula from './Pages/Regula';
 import Keresztenyek from './Pages/Keresztenycsapat';
 import Aprodok from './Pages/Aprodok';
-import {HashRouter as Router, Route, Routes} from 'react-router-dom';
+import {Router as Router, Route, Routes} from 'react-router-dom';
 import './Styles/App.css';
 import Headertopages from './Components/Headertopages';
 import Rólunk from './Components/Rólunk';
