@@ -7,9 +7,9 @@ import apród from '../img/apródcsata.jpg';
 import '../Styles/Card.css';
 import {Link} from 'react-router-dom';
 
-function Rólunk() {
+function Rolunk() {
   return (
-    <div id="rólunk">
+    <div>
         <h2 className='cim'>Rólunk</h2>
     <CardGroup>
       <Card>
@@ -55,4 +55,4 @@ function Rólunk() {
   );
 }
 
-export default Rólunk;
+export default Rolunk;

@@ -2,7 +2,7 @@ import React from "react";
 import {Button} from 'react-bootstrap'
 import '../Styles/Kapcsolat.css';
 
-function Mail() {
+function Kapcsolat() {
     return(
     <div className="mail" id="kapcsolat">
         <h2 className="kapcsolat cim">Kapcsolat</h2>
@@ -11,4 +11,4 @@ function Mail() {
         )
 }
 
-export default Mail;
+export default Kapcsolat;

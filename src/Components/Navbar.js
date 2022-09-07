@@ -18,11 +18,11 @@ function Uppernav() {
          <img href="#főoldal" src={require('../img/logo2.png')} alt="logo" className='logo2' />
            <Nav className="me-auto">
            <Nav.Link className="a" href=""><Link className='link' to="/">Főoldal</Link></Nav.Link>
-            <Nav.Link className="a" href="/#rólunk">Rólunk</Nav.Link>
-            <Nav.Link className="a"  href="/#fellépéseink">Fellépéseink</Nav.Link>
+            <Nav.Link className="a" href="#" ><Link className='link' to="/Rolunk">Rólunk</Link></Nav.Link>
+            <Nav.Link className="a"  href="#" ><Link className='link' to="/Fellepeseink">Fellépéseink</Link></Nav.Link>
             <Nav.Link className="a"  href="#"><Link className='link' to="/Partnereink"> Partnereink</Link></Nav.Link>
             <Nav.Link className="a"  href="#" ><Link className='link' to="/regula">Regula</Link></Nav.Link>
-            <Nav.Link className="a"  href="/#kapcsolat">Kapcsolat</Nav.Link>
+            <Nav.Link className="a"  href="#" ><Link className='link' to="/Kapcsolat">Kapcsolat</Link></Nav.Link>
           </Nav>
           </Navbar.Collapse>
         </Container>
