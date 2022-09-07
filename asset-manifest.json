@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/leorubidus/static/css/main.f9f789f9.css",
+    "main.js": "/leorubidus/static/js/main.380cb4b1.js",
+    "static/js/787.d425ef47.chunk.js": "/leorubidus/static/js/787.d425ef47.chunk.js",
+    "static/media/lelle.png": "/leorubidus/static/media/lelle.79b853ddbaa664dcda20.png",
+    "static/media/apródcsata.jpg": "/leorubidus/static/media/apródcsata.79f4a9c898afaffbead6.jpg",
+    "static/media/szabályzat.pdf": "/leorubidus/static/media/szabályzat.554cd4316711e39b0670.pdf",
+    "static/media/leocsapat.jpg": "/leorubidus/static/media/leocsapat.f98128bd1f2ed2a12c64.jpg",
+    "static/media/leorubidus.jpg": "/leorubidus/static/media/leorubidus.5a894a935467b5952ea2.jpg",
+    "static/media/gyulaivar.jpg": "/leorubidus/static/media/gyulaivar.b06a032bc394acf82746.jpg",
+    "static/media/kizil arslan.jpg": "/leorubidus/static/media/kizil arslan.f439f431d21369734574.jpg",
+    "static/media/szilagysomlyo.png": "/leorubidus/static/media/szilagysomlyo.079a61b3ded94847d0d8.png",
+    "static/media/leorubidus2.jpg": "/leorubidus/static/media/leorubidus2.652a6fba9168680e4116.jpg",
+    "static/media/egervara.jpg": "/leorubidus/static/media/egervara.87daf0b058c50ba46296.jpg",
+    "static/media/Hajdúnánás.png": "/leorubidus/static/media/Hajdúnánás.ae4558c63bd1f3809793.png",
+    "static/media/textilshop.png": "/leorubidus/static/media/textilshop.5037077c622392d5d7d2.png",
+    "static/media/bootstrap-icons.woff?": "/leorubidus/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/leorubidus/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/logo2.png": "/leorubidus/static/media/logo2.244286f33062a8074bf6.png",
+    "static/media/orchideak.jpg": "/leorubidus/static/media/orchideak.5d3c71b1c5c89d7786fd.jpg",
+    "static/media/patrióta.jpg": "/leorubidus/static/media/patrióta.42501e6bab9dd5644755.jpg",
+    "static/media/bga_alap_logo.png": "/leorubidus/static/media/bga_alap_logo.ab25274bc41b7e666ded.png",
+    "static/media/thury.jpg": "/leorubidus/static/media/thury.445dc9cf81fdfe1a0503.jpg",
+    "index.html": "/leorubidus/index.html",
+    "main.f9f789f9.css.map": "/leorubidus/static/css/main.f9f789f9.css.map",
+    "main.380cb4b1.js.map": "/leorubidus/static/js/main.380cb4b1.js.map",
+    "787.d425ef47.chunk.js.map": "/leorubidus/static/js/787.d425ef47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9f789f9.css",
+    "static/js/main.380cb4b1.js"
+  ]
+}
