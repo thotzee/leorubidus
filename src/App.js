@@ -20,7 +20,7 @@ import './Styles/App.css';
 
 function App() {
   return (
-    <Router>
+    <Router baseUrl="https://thotzee.github.io/leorubidus/" >
     <div className="App" id="főoldal">
       <div className="App">
       
