@@ -20,7 +20,7 @@ function Uppernav() {
            <Nav.Link className="a" href=""><Link className='link' to="/">Főoldal</Link></Nav.Link>
             <Nav.Link className="a" href="/#rólunk">Rólunk</Nav.Link>
             <Nav.Link className="a"  href="/#fellépéseink">Fellépéseink</Nav.Link>
-            <Nav.Link className="a"  href="/#partnereink">Partnereink</Nav.Link>
+            <Nav.Link className="a"  href="#"><Link className='link' to="/Partnereink"> Partnereink</Link></Nav.Link>
             <Nav.Link className="a"  href="#" ><Link className='link' to="/regula">Regula</Link></Nav.Link>
             <Nav.Link className="a"  href="/#kapcsolat">Kapcsolat</Nav.Link>
           </Nav>

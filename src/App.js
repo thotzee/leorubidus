@@ -5,7 +5,7 @@ import Fellepeseink from './Pages/Fellepeseink';
 import Regula from './Pages/Regula';
 import Keresztenyek from './Pages/Keresztenycsapat';
 import Aprodok from './Pages/Aprodok';
-import {Router as Router, Route, Routes} from 'react-router-dom';
+import {HashRouter, Route, Routes} from 'react-router-dom';
 import './Styles/App.css';
 import Headertopages from './Components/Headertopages';
 import Rólunk from './Components/Rólunk';
@@ -20,7 +20,7 @@ import './Styles/App.css';
 
 function App() {
   return (
-  <Router>
+  <HashRouter>
     <div className="App" id="főoldal">
       <div className="App">
       
@@ -29,6 +29,7 @@ function App() {
     <Routes>
      
      <Route path="/" element={<><Header/><Rólunk/> <Partnereink/> <Fellépéseink/> <Mail/> </>} />
+     <Route path="/Partnereink" element={<><Headertopages/> <Partnereink/></>} />
      <Route path="/Tovabbiak" element={<><Headertopages/> <Tovabbiak/> </>} />
      <Route path="/Keresztenycsapat" element={<><Headertopages/> <Keresztenyek/> </>} />
      <Route path="/Aprodok" element={<><Headertopages/> <Aprodok/> </>} />
@@ -41,7 +42,7 @@ function App() {
     <Footer />
     </div>
   
-  </Router>
+  </HashRouter>
   );
 }
 
