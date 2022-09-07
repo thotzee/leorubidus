@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;400;700&display=swap');
+
+
+*{
+    margin:0;
+    
+    font-family: 'Titillium Web', sans-serif;
+}
+
+:root {
+    --mainColor: rgb(31, 30, 30);
+    --mainColorLighter: rgba(178, 194, 199, 0.856);
+    --secondaryColor: rgb(255, 255, 255);
+    --textColor: #fff;
+
+}
+
+.me-auto{
+    display: inline-flex;
+    align-items:flex-start;
+    align-content:flex-start;
+    justify-content:space-evenly;
+    z-index: 3;
+    overflow:auto;
+    width:100%;
+    font-size:2rem;
+    color:#fff;
+}
+
+.link{
+    color: #fff;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: rgb(31, 30, 30);
+}
+
+.nav-link{
+    margin: 1,5%;
+    color: #fff;
+    text-decoration: none;
+    width:16,6%;
+    float:left;
+    padding-top: 20px;
+}
+
+.logo2{
+        width: 7%;
+        margin-top:40px;
+        
+    
+}
+
+@media only screen and (max-width:1023px){
+    
+
+    .nav-link:hover{
+        color: rgba(178, 194, 199, 0.856);
+    }
+
+    #responsive-navbar-nav{
+        background-color: rgb(31, 30, 30);   
+        }
+
+    .nav-link{
+        font-size: 2rem;
+        margin-left: 4%;
+        padding-top: 2%;
+    }
+
+    .logo2{
+        width: 4rem;
+        margin-left:40px;
+    }
+
+}
+
+@media only screen and (max-width:576px) {
+
+    
+
+    .nav-link:hover{
+        color: rgba(178, 194, 199, 0.856);
+    }
+
+    #responsive-navbar-nav{
+    
+    background-color: rgb(31, 30, 30);
+        
+    }
+
+     .nav-link{
+        font-size: 2rem;
+        margin-left: 4%;
+        padding-top: 2%;
+    }
+
+    .logo2{
+        width: 4rem;
+        margin-left:40px;
+    }
+
+   }

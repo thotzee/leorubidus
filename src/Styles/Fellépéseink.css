@@ -1,0 +1,49 @@
+.fellépéseink{
+    text-align: center;
+    margin: 0;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family: 'Titillium Web', sans-serif;
+    color: rgb(31, 30, 30);
+    font-size: 5rem;
+}
+
+.szereplések{
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+}
+
+@media only screen and (max-width:1023px){
+    .fellépéseink{
+        text-align: center;
+        margin: 0;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        font-family: 'Titillium Web', sans-serif;
+        color: rgb(31, 30, 30);
+        font-size: 3rem;
+    }
+    
+    .szereplések{
+        background-color: rgb(255, 255, 255);
+        justify-content: center;
+    }
+
+}
+
+@media only screen and (max-width:576px){
+    .fellépéseink{
+        text-align: center;
+        margin: 0;
+        padding-top: 2%;
+        padding-bottom: 5%;
+        font-family: 'Titillium Web', sans-serif;
+        color: rgb(31, 30, 30);
+        font-size: 3rem;
+    }
+    
+    .szereplések{
+        background-color: rgb(255, 255, 255);
+        justify-content: center;
+    }
+}

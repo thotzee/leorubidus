@@ -1,0 +1,62 @@
+h2{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.letoltes{
+    text-decoration: none;
+    color:rgb(31, 30, 30);
+}
+
+.letoltes:hover{
+    text-decoration: none;
+    color:rgba(178, 194, 199, 0.856);
+}
+
+.gomb{
+    padding:7%;
+}
+
+@media only screen and (max-width:1023px){
+    .szabály{
+        text-align: center;
+        padding-top: 30px;
+        font-size: 4rem;
+    }
+    
+    .letoltes{
+        text-decoration: none;
+        color:rgb(31, 30, 30);
+    }
+    
+    .letoltes:hover{
+        text-decoration: none;
+        color:rgba(178, 194, 199, 0.856);
+    }
+    
+    .gomb{
+        padding:7%;
+    }
+}
+
+@media only screen and (max-width:576px){
+    .szabály{
+        text-align: center;
+        padding-top: 30px;
+        font-size: 3rem;
+    }
+    
+    .letoltes{
+        text-decoration: none;
+        color:rgb(31, 30, 30);
+    }
+    
+    .letoltes:hover{
+        text-decoration: none;
+        color:rgba(178, 194, 199, 0.856);
+    }
+    
+    .gomb{
+        padding:7%;
+    }
+}

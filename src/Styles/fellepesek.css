@@ -1,0 +1,12 @@
+.idopont{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media only screen and (max-width:576px){
+    .szereplesek{
+        padding-bottom: 15%;
+    }
+}

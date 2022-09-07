@@ -1,0 +1,28 @@
+.icon{
+    margin:15px 0 0;
+    padding:0;
+    list-style: none;
+    display: inline-block;
+    padding:0 3% 0;
+    
+}
+
+container{
+   
+    justify-content: center;
+}
+
+li a{
+    display: block;
+    color: rgb(31, 30, 30);
+    justify-content: center;
+    font-size: 30px;
+}
+
+
+
+
+
+h6{
+    text-align: center;
+}

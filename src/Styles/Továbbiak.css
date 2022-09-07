@@ -1,0 +1,62 @@
+.szöveg{
+    text-align: justify;
+    margin-left:80px;
+    margin-right: 80px;
+}
+
+.aprod{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+@media only screen and (max-width:1023px){
+    .szöveg{
+        text-align: justify;
+        margin-left:7%;
+        margin-right: 7%;
+    }
+    
+    .aprod{
+        width: 60%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cim{
+        text-align: center;
+        padding-top: 30px;
+        font-size: 3rem;
+    }
+
+    .fellépéseink{
+        text-align: center;
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (max-width:576px){
+    .szöveg{
+        text-align: justify;
+        margin-left:7%;
+        margin-right: 7%;
+    }
+    
+    .aprod{
+        width: 60%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cim{
+        text-align: center;
+        padding-top: 30px;
+        font-size: 3rem;
+    }
+}

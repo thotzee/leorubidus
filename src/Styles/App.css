@@ -1,0 +1,75 @@
+
+
+.App-header{
+  background-image: url('../img/leorubidus.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  width: 100%;
+}
+
+.Footer{
+  text-align: center;
+}
+
+h1{
+  font-size: 4rem;
+  position:relative;
+  padding-top: 320px;
+  margin-left: 130px;
+  padding-bottom: 190px;
+  color: #fff;
+  font-family: 'Titillium Web', sans-serif;
+  padding-left: 20px;
+}
+
+
+@media only screen and (max-width:1023px){
+
+.App-header {
+  background-image: url('../img/leorubidus2.jpg');
+  background-image: no-repeat;
+  background-size: cover;
+  width: 100%;
+  
+}
+
+Container{
+  width:100%;
+}
+
+h1{
+  position:relative;
+  text-align: center;
+  font-size:2rem;
+  z-index:0;
+  margin:0;
+  margin-right: 0;
+  padding-top:20%;
+  padding-bottom: 250px;
+  padding-right: 0;
+ 
+}
+}
+
+@media only screen and (max-width:576px){
+  .App-header {
+    background-image: url('../img/leorubidus2.jpg');
+    background-image: no-repeat;
+    background-size: cover;
+    width: 100%;
+  }
+
+
+
+  h1{
+    position:relative;
+    margin-top:0;
+    padding-top: 2%;
+    font-size:2rem;
+    z-index:0;
+    text-align: center;
+    
+
+  }
+}

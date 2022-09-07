@@ -1,0 +1,49 @@
+.kapcsolat{
+    text-align: center;
+    font-family:'Titillium Web', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 4rem;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    
+}
+
+.mail{
+    background-color: rgb(31, 30, 30);
+    padding-bottom: 6% ;
+}
+
+@media only screen and (max-width:1023px){
+    .kapcsolat{
+        text-align: center;
+        font-family:'Titillium Web', sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 4rem;
+        margin-top: 100px;
+        margin-bottom: 20px;
+        
+    }
+    
+    .mail{
+        background-color: rgb(31, 30, 30);
+        padding-bottom: 12% ;
+}
+}
+
+@media only screen and (max-width:576px){
+
+    .kapcsolat{
+        text-align: center;
+        font-family:'Titillium Web', sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 4rem;
+        margin-top: 100px;
+        margin-bottom: 20px;
+        
+    }
+    
+    .mail{
+        background-color: rgb(31, 30, 30);
+        padding-bottom: 24% ;
+    }
+}
