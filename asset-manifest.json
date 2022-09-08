@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/leorubidus/static/css/main.f9f789f9.css",
-    "main.js": "/leorubidus/static/js/main.150830a4.js",
+    "main.css": "/leorubidus/static/css/main.7b147d79.css",
+    "main.js": "/leorubidus/static/js/main.2693f288.js",
     "static/js/787.d425ef47.chunk.js": "/leorubidus/static/js/787.d425ef47.chunk.js",
     "static/media/lelle.png": "/leorubidus/static/media/lelle.79b853ddbaa664dcda20.png",
     "static/media/apródcsata.jpg": "/leorubidus/static/media/apródcsata.79f4a9c898afaffbead6.jpg",
@@ -12,6 +12,7 @@
     "static/media/kizil arslan.jpg": "/leorubidus/static/media/kizil arslan.f439f431d21369734574.jpg",
     "static/media/szilagysomlyo.png": "/leorubidus/static/media/szilagysomlyo.079a61b3ded94847d0d8.png",
     "static/media/leorubidus2.jpg": "/leorubidus/static/media/leorubidus2.652a6fba9168680e4116.jpg",
+    "static/media/nadasdy.jpg": "/leorubidus/static/media/nadasdy.0ced3e41e0af311df51d.jpg",
     "static/media/egervara.jpg": "/leorubidus/static/media/egervara.87daf0b058c50ba46296.jpg",
     "static/media/Hajdúnánás.png": "/leorubidus/static/media/Hajdúnánás.ae4558c63bd1f3809793.png",
     "static/media/textilshop.png": "/leorubidus/static/media/textilshop.5037077c622392d5d7d2.png",
@@ -23,12 +24,12 @@
     "static/media/bga_alap_logo.png": "/leorubidus/static/media/bga_alap_logo.ab25274bc41b7e666ded.png",
     "static/media/thury.jpg": "/leorubidus/static/media/thury.445dc9cf81fdfe1a0503.jpg",
     "index.html": "/leorubidus/index.html",
-    "main.f9f789f9.css.map": "/leorubidus/static/css/main.f9f789f9.css.map",
-    "main.150830a4.js.map": "/leorubidus/static/js/main.150830a4.js.map",
+    "main.7b147d79.css.map": "/leorubidus/static/css/main.7b147d79.css.map",
+    "main.2693f288.js.map": "/leorubidus/static/js/main.2693f288.js.map",
     "787.d425ef47.chunk.js.map": "/leorubidus/static/js/787.d425ef47.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9f789f9.css",
-    "static/js/main.150830a4.js"
+    "static/css/main.7b147d79.css",
+    "static/js/main.2693f288.js"
   ]
 }
