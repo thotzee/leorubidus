@@ -9,6 +9,7 @@ import Eger from '../img/egervara.jpg';
 import Lelle from '../img/lelle.png';
 import Bethlen from '../img/bga_alap_logo.png';
 import Somlyo from '../img/szilagysomlyo.png';
+import Nadasdy from '../img/nadasdy.jpg';
 import '../Styles/Partnereink.css';
 
 function Partnereink() {
@@ -53,7 +54,7 @@ function Partnereink() {
           alt="Third slide"
         />
         <Carousel.Caption>
-          <h3>Thury-Vár Nonprofit Kft. (Diadal Napja)</h3>
+          <h3>Thury-Vár Nonprofit Kft.</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -63,7 +64,7 @@ function Partnereink() {
           alt="Third slide"
         />
         <Carousel.Caption>
-          <h3>Hajdúnánás Város Önkormányzata (Hajdúk Világtalálkozója)</h3>
+          <h3>Hajdúnánás Város Önkormányzata</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -114,6 +115,16 @@ function Partnereink() {
         />
         <Carousel.Caption>
           <h3>Szilágysomlyó</h3>
+        </Carousel.Caption>
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-20"
+          src={Nadasdy}
+          alt="Third slide"
+        />
+        <Carousel.Caption>
+          <h3>Nádasdy Fesztivál Sárvár</h3>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
